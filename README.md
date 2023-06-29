@@ -1,4 +1,4 @@
-# Quasar App (frontend-api-ts)
+# Quasar App (frontend-quasar)
 
 A Quasar Project
 
