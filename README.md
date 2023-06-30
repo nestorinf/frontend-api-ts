@@ -30,6 +30,10 @@ yarn format
 npm run format
 ```
 
+### Build the app for development
+```bash
+quasar dev
+```
 
 
 ### Build the app for production
